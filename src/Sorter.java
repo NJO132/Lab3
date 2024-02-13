@@ -31,4 +31,7 @@ public class Sorter {
 
     }
 
+    public static void sort(int[] arr) {
+        insertionSort(arr);
+    }
 }
